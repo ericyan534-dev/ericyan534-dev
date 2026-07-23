@@ -16,9 +16,13 @@ characters it improves structural probing accuracy by +9.8 points over the stron
 baseline, while matching or exceeding comparable Chinese PLMs on CLUE.
 *Co-first author (equal contribution); manuscript submitted to ACL Rolling Review 2027.*
 
-**AIFE Engine** — An NLP and econometric research pipeline studying firm-level AI adoption
-and labor demand across more than 100 million job postings in 72 countries.
-*Repository in preparation.*
+**[AIFE Engine](https://github.com/ericyan534-dev/aife-engine)** — An NLP and econometric
+research pipeline studying firm-level AI adoption and labor demand from online job
+postings. A knowledge-distillation pipeline turns unstructured hiring text into a
+firm–year panel of AI intensity and task composition, which then feeds causal and
+forecasting analysis. The repository holds the measurement stage: corpus extraction,
+entity resolution, teacher scoring, and index construction.
+*Co-authored with Yintong Chen and Zichun Qiu; Regeneron ISEF 2026.*
 
 **[PoliScope](https://github.com/ericyan534-dev/poliscope)** — A source-grounded legislative
 intelligence platform. A LangGraph RAG orchestrator traces bill evolution, sponsorship,
