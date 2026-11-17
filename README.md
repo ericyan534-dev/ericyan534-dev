@@ -27,17 +27,22 @@ entity resolution, teacher scoring, and index construction.
 **[PoliScope](https://github.com/ericyan534-dev/poliscope)** — A source-grounded legislative
 intelligence platform. A LangGraph RAG orchestrator traces bill evolution, sponsorship,
 lobbying disclosures, and campaign finance across the Congress.gov, GovInfo, Senate LDA, and
-OpenFEC APIs, grounding every answer in a primary government source. Built at HackHarvard 2025.
+OpenFEC APIs, grounding every answer in a primary government source. HackHarvard 2025.
 
 **[AI Digest](https://github.com/ericyan534-dev/ai-digest)** — A self-hosted research and
 industry intelligence system: retrieval, clustering, personalization, evaluation, and
 multi-channel delivery. Runs on a daily schedule against live academic, industry, and
-community sources, with a deterministic mock-LLM mode so the whole pipeline is reproducible
-without credentials.
+community sources.
 
 **[Resonaite](https://github.com/ericyan534-dev/resonaite)** — An experimental adaptive-audio
 platform combining AI-generated music, real-time digital signal processing, and closed-loop
-EEG feedback. 
+EEG feedback. HackMIT China 2026.
+
+**[Echo](https://github.com/ericyan534-dev/echo)** A real-time aphasia word-finding co-pilot that 
+features dual-channel stall detection (verbatim transcript + raw acoustic), speculative prefetch 
+and provider-failover word prediction. HackMIT 2026.
+
+
 
 ## Current Focus
 
