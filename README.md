@@ -38,7 +38,7 @@ community sources.
 platform combining AI-generated music, real-time digital signal processing, and closed-loop
 EEG feedback. HackMIT China 2026.
 
-**[Echo](https://github.com/ericyan534-dev/echo)** A real-time aphasia word-finding co-pilot that 
+**[Echo](https://github.com/ericyan534-dev/echo)** — A real-time aphasia word-finding co-pilot that 
 features dual-channel stall detection (verbatim transcript + raw acoustic), speculative prefetch 
 and provider-failover word prediction. HackMIT 2026.
 
