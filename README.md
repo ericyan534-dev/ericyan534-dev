@@ -37,7 +37,7 @@ without credentials.
 
 **[Resonaite](https://github.com/ericyan534-dev/resonaite)** — An experimental adaptive-audio
 platform combining AI-generated music, real-time digital signal processing, and closed-loop
-EEG feedback. A research prototype, not a medical device.
+EEG feedback. 
 
 ## Current Focus
 
